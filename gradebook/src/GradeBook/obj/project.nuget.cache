@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1EKauDaC52cckuB6wuJEYUOEboJ+dA2pNHZNxCQgc8qqo2GAaIJNwcZxID/k9+bX24DfbvUup/iUkVBOEflDxA==",
+  "dgSpecHash": "6oi3cQNoAi4E5yasQzk1pO7lb7bP50ciUel0PrnIvGPOFUOIWlGLMNYrB3WnVdNzqgsRQAA9KP04bj8F8G4CSg==",
   "success": true,
-  "projectFilePath": "/Users/codemasterflash/Desktop/C#/gradebook/src/GradeBook/GradeBook.csproj",
+  "projectFilePath": "/Users/codemasterflash/Desktop/cSharp/gradebook/src/GradeBook/GradeBook.csproj",
   "expectedPackageFiles": [
     "/Users/codemasterflash/.nuget/packages/microsoft.netcore.app/2.1.0/microsoft.netcore.app.2.1.0.nupkg.sha512",
     "/Users/codemasterflash/.nuget/packages/microsoft.netcore.dotnetapphost/2.1.0/microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
