@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/codemasterflash/.dotnet/store/|arch|/|tfm|",
+      "/Users/codemasterflash/.nuget/packages"
+    ]
+  }
+}
